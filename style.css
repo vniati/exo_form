@@ -1,0 +1,145 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  outline-style: none;
+}
+
+
+.clearbox {
+  clear: both;
+}
+
+#form1 {
+  margin-left: 20px;
+}
+
+#form1 h3 {
+  font-size: 17px;
+  padding-bottom: 4px;
+}
+
+#form1 {
+  width: 430px;
+}
+
+#form1 .mail, .subject {
+  width: 350px;
+  height: 30px;
+}
+
+#form1 .mail:focus, .subject:focus, .first:focus, .last:focus, .textarea:focus{
+  box-shadow: 1px 1px 10px 0px #4B99AD;
+  -webkit-box-shadow: 1px 1px 10px 0px #4B99AD;
+  -moz-box-shadow: 1px 1px 10px 0px #4B99AD;
+}
+
+#form1 .first, .last{
+  height: 30px;
+}
+
+#form1 .textarea {
+  width: 350px;
+  height: 100px;
+}
+
+.redstar {
+  color: red;
+  padding-left: 4px;
+  font-size: 15px;
+}
+
+#form1 h3 {
+  margin-top: 15px;
+}
+
+#form1 .submitv {
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+  border: 1px solid #4B99AD;
+  background-color: #4B99AD;
+  padding: 8px;
+}
+
+#form2 {
+  margin-top: 30px;
+  margin-left: 20px;
+  width: 500px;
+}
+
+#form2 .titrel {
+  font-style: italic;
+}
+
+#form2 hr {
+  color: #DDDDDD;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border: 1px solid #DDDDDD;
+}
+
+#form2 .redstar {
+  padding-right: 60px;
+}
+
+#form2 .name {
+  height: 30px;
+  width: 210px;
+  border: 1px solid #C2C2C2;
+  border-radius: 4px;
+}
+
+#form2 .entre {
+  padding-top: 20px;
+}
+
+#form2 .mail {
+  height: 30px;
+  width: 210px;
+  border: 1px solid #C2C2C2;
+  border-radius: 4px;
+}
+
+#form2 .totname, .totmail, .totregard, .totmess {
+  font-weight: bold;
+}
+
+#form2 .tottel {
+  padding-right: 41px;
+  font-weight: bold;
+}
+
+#form2 .tele {
+  width: 33px;
+  height: 30px;
+  border: 1px solid #C2C2C2;
+  border-radius: 4px;
+}
+
+#form2 .totregard {
+  padding-right: 36px;
+}
+
+#form2 .selregard {
+  width: 110px;
+  height: 30px;
+  background-color: #c2c2c2;
+  border: 1px solid #C2C2C2;
+  border-radius: 4px;
+}
+
+#form2 .redstar2 {
+  color: red;
+  margin-left: 4px;
+  font-size: 15px;
+  padding-right: 41px;
+}
+
+
+#form2 .textarea2 {
+  width: 280px;
+  height: 100px;
+}
