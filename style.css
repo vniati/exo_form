@@ -165,3 +165,90 @@
   margin-left: 111px;
   margin-top: 10px;
 }
+
+.thirdform {
+  margin-left: 20px;
+  margin-top: 20px;
+  width: 400px;
+}
+
+
+#form3 fieldset {
+  width: 400px;
+  color: #C1C1C1;
+  border-radius: 4px;
+  border: 2px solid #EBEBEB;
+  height: 81px;
+  margin-bottom: 15px;
+}
+
+#form3 h3 {
+  text-align: center;
+}
+
+#form3 #field {
+  border: none;
+  background-color: #F3F3F3;
+  width: 396px;
+  height: 22px;
+  text-align: center;
+  margin-top: 39px;
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+
+
+#form3 legend {
+  margin-left: 15px;
+}
+
+#form3 .buttonsend3 {
+  text-align: center;
+}
+
+#form3 .send3 {
+  border: 1px solid #2471FF;
+  background-color: #2471FF;
+  color: white;
+  border-radius: 4px;
+  padding: 10px;
+}
+
+.fourthform {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.background4 {
+  width: 500px;
+  height: 200px;
+  background-color: #495C70;
+  border: 5px solid #53687E;
+  padding-top: 12px;
+}
+
+#form4 label {
+  color: white;
+  display: inline-block;
+  width: 150px;
+}
+
+#form4 input {
+  border: none;
+  border-bottom: 1px dashed #83A4C5;
+  background-color: #495A70;
+  padding-right: 70px;
+}
+
+#form4 .esp {
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+#form4 .send4 {
+  border: 1px solid #576E86;
+  background-color: #576E86;
+  border-radius: 4px;
+  padding: 10px;
+  color: #99ACC1;
+}
